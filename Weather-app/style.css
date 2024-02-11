@@ -136,7 +136,7 @@ body {
   border-radius: 50%;
   bottom: 40px;
 }
-h1 {
+.cm {
   font: italic small-caps bold 30px/2 cursive;
   color: #000000d2;
 }
